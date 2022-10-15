@@ -1,3 +1,5 @@
+package Aulas;
+
 import java.sql.Struct;
 import java.util.Scanner;
 
